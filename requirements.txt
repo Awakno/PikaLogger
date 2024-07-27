@@ -1,0 +1,4 @@
+colorama
+prettytable
+pydantic
+requests
