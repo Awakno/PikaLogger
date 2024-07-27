@@ -40,3 +40,5 @@ python3 main.py
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Don't forget your chance to join the project ⭐
