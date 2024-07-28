@@ -38,7 +38,7 @@ python3 main.py
 ```
 
 ## Preview
-[VidePreview](./preview/2024-07-28%2013-59-04.mp4)
+[!VidePreview](./preview/2024-07-28%2013-59-04.mp4)
 
 ## Contributing
 
