@@ -11,7 +11,7 @@ async def main():
     table = PrettyTable()
     table.field_names = ["Username", "Status", "Kills", "Wins", "Losses", "Deaths", "Game played", "Final Kills", "Beds Broken", "KDR"]
 
-    print(table)  # Print the initial table with headers
+    print(table)
 
     for message in messages_sent:
         stats = await GetData().get_stats(message)
