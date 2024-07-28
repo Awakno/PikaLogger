@@ -38,7 +38,7 @@ python3 main.py
 ```
 
 ## Preview
-[![VidePreview]](./preview/2024-07-28%2013-59-04.mp4)
+<video src="./preview/2024-07-28 13-59-04.mp4" width="100" height="100" controls></video>
 
 ## Contributing
 
