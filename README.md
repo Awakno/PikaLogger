@@ -37,6 +37,9 @@ To start using PikaLogger, simply run the main script:
 python3 main.py
 ```
 
+## Preview
+[VidePreview](./preview/2024-07-28%2013-59-04.mp4)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
