@@ -38,7 +38,7 @@ python3 main.py
 ```
 
 ## Preview
-<video src="./preview/2024-07-28 13-59-04.mp4" width="100" height="100" controls></video>
+<video src="./preview/2024-07-28 13-59-04.mp4" width="320" height="240" controls></video>
 
 ## Contributing
 
